@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Josukutty Ulahannan</h1>
 <h3 align="center">A passionate techie from India</h3><br><br>
-<img align= "right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align= "right" alt="Wooho!" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://private-user-images.githubusercontent.com/74038190/240815068-993370af-11f4-48e7-9e0d-e5b79c2e7890.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMxNDMwMzMsIm5iZiI6MTc0MzE0MjczMywicGF0aCI6Ii83NDAzODE5MC8yNDA4MTUwNjgtOTkzMzcwYWYtMTFmNC00OGU3LTllMGQtZTViNzljMmU3ODkwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzI4VDA2MTg1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRiNjMzYjc5OGMyNzBlYmQxYTRiOGViYWMzY2Y0NTIwMGNhNWU5MGQzNjA5OWI2NWQ3YmZhZWEzNWMyYWRlMWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.yZTYkjqaGhsz99CeofwDojEmkWsqMBhSlogHu7e1lkQ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josukutty&label=Profile%20views&color=0e75b6&style=flat" alt="josukutty" /> </p>
 
